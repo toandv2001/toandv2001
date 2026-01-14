@@ -10,7 +10,7 @@
 ###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /> 
-![Baki GIF](https://github.com/toandv2001/toanweb/blob/main/images/baki.gif?raw=true)
+<img align="right" height="150" src="https://raw.githubusercontent.com/toandv2001/toanweb/main/images/baki.gif" />
 ###
 
 <div align="left">
