@@ -10,7 +10,7 @@
 ###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-<img align="right" height="150" src="https://giffiles.alphacoders.com/220/220110.gif"  />
+<img align="right" height="150" src="https://giffiles.alphacoders.com/220/220110.gif" />
 
 ###
 
